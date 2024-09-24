@@ -1,0 +1,14 @@
+1. Open Anaconda Prompt
+2. write/paste the below command
+call C:\ProgramData\Anaconda3\Scripts\activate base
+Press enter
+3. Copy the Path where project available
+Cd C:\Users\imdil\Desktop\Project Code File
+Press enter
+4. write command
+Python app.py
+Press enter
+5. Copy the URL, paste in browser and press enter
+6. sign in/signup for first register.
+(default details- admin,admin )
+7. give inputs and submit will get the output.
